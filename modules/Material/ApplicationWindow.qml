@@ -120,8 +120,8 @@ Controls.ApplicationWindow {
         id: overlayLayer
     }
 
-    width: Units.dp(800)
-    height: Units.dp(600)
+    //width: Units.dp(800)
+    //height: Units.dp(600)
 
     Component.onCompleted: {
         if (clientSideDecorations)
